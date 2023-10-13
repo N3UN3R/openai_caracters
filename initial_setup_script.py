@@ -1,4 +1,5 @@
 import autogen
+import openai
 
 #setting up api key
 api_key = "your_api_key_here"
